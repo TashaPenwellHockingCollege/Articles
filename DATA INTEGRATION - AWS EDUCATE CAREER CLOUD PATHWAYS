@@ -18,8 +18,13 @@ DATABASES: BIG DATA INTRODUCTION
 DATABASES: BIG DATA GENERAL
 	-Big Data can be described in terms of management challenges that cannot be solved w/ traditional db
 		*challenges are due to increasing volume, velcity and variety of data
+	-Three V's of Big Data
+		1. VOLUME:  Ranges from terabytes to petabytes of data
+		2. Variety:  Includes data from a wide range of sources and formats. (i.e. web logs, social media interactions, ecommerce and online transactions, financial transactions, etc)
+		3. Velocity:  Increasingly, businesses have stringent requirements from the time data is generated to the time actional insights are delivered to the users.  Data needs to be collected, stored, processed and analyzed w/in short windows - ranging from daily to real-time.
 
 
+LEFT OFF:  Databases: Big Data Analytics TEXT RESOURCES
 
 
 
