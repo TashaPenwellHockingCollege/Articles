@@ -38,4 +38,13 @@ Not quite.  I write this from a few different perspectives.
 2. Mother of a child who graduated in May 2020
 3. College educator
 
+## College Dropout
+I was the traditional "good" student in high school.  Graduated with two full scholarships to attend my local college.  I honestly didn't want to go.  Like many high school graduates I was sick of going to school and wanted to just get a job and have my own place.  I enrolled in college and completed about a year before I had my son.  Between not really wanting to be in class in the first place and trying to learn how to be a mother at the age of 19, I decided to walk away from my classes and go to work.  Fast forward a few years, trying to make ends meet as a single mom I learned the importance of having a degree would be for me and my son.  At the age of 28, I graduated with my Associates Degree and at the age of 34 I earned my Masters Degree.
+
+## Mother's Perspective
+My son graduated from Hocking College with his Associates Degree in May 2020 (the year of Covid).  In the Spring semester, all hands-on labs went virtual overnight.  Like many students during this time he struggled staying engaged and motivated to continue to attend classes and had the mindset of dropping out to go to work.  Fortunately, with the support of his instructors and several conversations with him he graduated.  One conversation that comes to mind the most is him stating "I don't like learning online.  I want to be in the classroom".  As an educator I firmly explained that no one likes this.  This is tough for everyone - teachers, administraton and students but we don't have a choice right now.  Unemployment is high, businesses are shut down - everyone is looking for work.  Focus on what you can control - which is your studies.  
+
+## College Educator
+In 2018, I joined Hocking College as the Computer Science Program Manager.  In this role, I've seen students succeed and I've seen students struggle.  Some left when Covid caused a rapid change in what they knew or expected from the college experience.  Some stayed on knowing this was still the best option.  I'll admit, college does not provide the absolute value it once had.  Bootcamps, apprenticeships, online and on the job training is making many question how necessary college is.  In short, it's not as necessary as it was for me when I first enrolled 20 years ago.  Other opportunities to train are available but that does not mean the college experience is any less valuable.  
+
 
