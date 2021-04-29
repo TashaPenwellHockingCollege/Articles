@@ -27,3 +27,15 @@ College graduates or college dropouts would be great to hear
 from for this story. But I'm open to anyone who can provide
 valid input. Thanks!
 Back to Top Back to Category Index
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+Are you ready to drop out of college?  We all know that 2020 was a rought year and 2021 seems to have us stumbling through to make our way through it.  We all have seen and heard how Covid has impacted businesses and schools.  Between the frustrations we're facing with digital classrooms and ever-growing student loans why would we continue to work through this?  It would be better to just call it quits and move on to something else - anything else.  Right?
+
+Not quite.  I write this from a few different perspectives.
+1. College dropout (and walked away from a full scholarship)
+2. Mother of a child who graduated in May 2020
+3. College educator
+
+
