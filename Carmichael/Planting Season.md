@@ -39,8 +39,8 @@ when should i start planting in ohio
 
 NOTE:  Mention (https://clark.osu.edu/people/pamela-j-bennett) 
 
-## Have a Plan
-“It’s best to start small the first year then go from there,” says Bennett, adding that a 10-foot-by-10-foot garden would be a small one for a family of four. Begin with a list of your favorite vegetables, but don’t be afraid to experiment as well.  Source (https://www.ohiomagazine.com/home-garden/article/backyard-garden-guide#:~:text=Here's%20when%20to%20start%2C%20what,producing%20a%20bounty%20of%20food.&text=Ohioans%20enjoy%20a%20reasonably%20long,it%20does%20what%20you%20plant) 
+## Consider Your Time
+Take into consideration the time you can devote to preparation, planting, caring for and harvesting your crops.  “It’s best to start small the first year then go from there,” says Bennett, adding that a 10-foot-by-10-foot garden would be a small one for a family of four. Begin with a list of your favorite vegetables, but don’t be afraid to experiment as well.    Source (https://www.ohiomagazine.com/home-garden/article/backyard-garden-guide#:~:text=Here's%20when%20to%20start%2C%20what,producing%20a%20bounty%20of%20food.&text=Ohioans%20enjoy%20a%20reasonably%20long,it%20does%20what%20you%20plant) 
 
 ## Consider Your Space
 Take into consideration the sunlight and shade that a healthy harvest will need for your plants.  You should also consider how watering the crop will be best performed when the hotter and drier months of July and August arrive.  Try to ensure an easy access to hose and water source.  
@@ -50,5 +50,7 @@ Once the harvest is done, it's time to decide how you will preserve so you will 
 
 ## Size of Your Family
 Take into consideration the size of your family (and friends) who you will be enjoying the fresh produce.  If you find that a crop yielded better than expected - inquire your local food pantry to see if they are in need of some fresh fruits and vegetables.  
+
+With a little bit of work, luck and faith, the seeds you plant today will become a joyful harvest for the Fall.
 
  
