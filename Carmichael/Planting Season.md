@@ -26,7 +26,7 @@ when should i start planting in ohio
 * The Wright Brothers
 * Agriculture
 * Cedar Point
- ...and for the ability to go through all the season in one week.  
+* ...and for the ability to go through all the season in one week.  
  
  This little bit of instability in nature can make planting season a little tricky here in Ohio.  It takes a bit of strategy and experience to turn out a good harvest in the Fall.  With April leaving and us entering into May, now is the time to enter into the planting seaon.  According to Farmers Almanac 2021, the last frost should leave us by May 1 so the first week of May where we can go into our gardens full force with little worry about any frost to harm our work.  
  
