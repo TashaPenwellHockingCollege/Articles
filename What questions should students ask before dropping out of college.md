@@ -1,3 +1,6 @@
+## EMAILED ON MAY 10, 2021
+
+
 27) Summary: What questions should students ask before dropping out of college?
 
 Name: Evan Thompson TheBestSchools.org
