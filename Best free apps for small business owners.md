@@ -45,6 +45,26 @@ These tools all have their own unique bells and whistles that make them unique b
 These resources have limited availability at no charge.  As a small business owner, it's important to be smart in your finances and my personal recommendation is to invest in one resource and use the free versions to fill in any additional creativity needs.  
 
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+An appealing design is vital for a business to stand out from the rest.  Whether it's for social media, a website, or sending out the latest newsletter, having an appealing and eye-catching visuals is vital.  There are three go-to graphic design tools I use as a small digital marketing business and as an added bonus they all come with their own free graphic design courses.  
+ 
+
+# Canva
+Canva [https://www.canva.com/join/dvv-wds-bhv] provides free access to a large variety of templates and designs that anyone can create and use for social media posts, blog banners, emails, and more.  In addition to these resources, the free Canva Design School [https://designschool.canva.com/] can help the greenest of designers gain confidence and create amazing graphics.  
+
+# PicMonkey
+Just like Canva, PicMonkey provides a great library to help those exploring a fun way to create eye catching graphics.
+PicMonkey is another great graphic tool that provides templates and graphics that small business owners can use at no charge to help create a visually appealing experience for their customers.
+
+# Figma
+Figma is a different type of graphic design tool.  Users can draw vector graphics and download for use to share they original creations.  Figma is also a great tool for designing or redesigning your website by allowing it's users to place the elements and content prior to developing the website.  No coding required.  Figma Learning is great for those looking to learn basic concepts of graphic design. 
+
+These tools all have their own unique bells and whistles that make them unique but they do have some things in common.
+1.  Availabile on mobile apps
+2.  Web-based. This allows users to create graphics on any device that connects to the Internet. (no need to purchase a new computer)
+3.  Provide great tutorials on graphic design concepts in addition to how to use their respective tools
+
+These resources have limited availability at no charge.  As a small business owner, it's important to be smart in your finances and my personal recommendation is to invest in one resource and use the free versions to fill in any additional creativity needs.  
 
 
