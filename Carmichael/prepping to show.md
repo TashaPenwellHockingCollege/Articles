@@ -3,6 +3,12 @@
 2.  Consult w/ a good vet and nutritionist
 3.  Find a mentor who has successfully shown
 
++++++++++++++++++++++++
+# KEYWORDS
+livestock showmanship
+
+
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 County fairs in a small town are something we looked forward to as kids.  As adults it's a different kind of experience watching the kids and grandkids squeal in laughter with the rides and winning the prize from knocking over the bottles.  As an adult the fair food is a once a year treat you enjoy while listening to the music that you heard when growing up.  
@@ -19,3 +25,6 @@ Here's a few tips that we have for those planning on showing soon!
 If you have any questions or in search for a recommendation, please feel free to reach out.  We're happy to help in any way we can!
 
 https://www.farmanddairy.com/top-stories/cattle-handling-for-beginners/469291.html
+
+
+
